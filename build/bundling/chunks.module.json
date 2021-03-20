@@ -1,0 +1,82 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.46.0",
+  "hash": "b89561f96982b26b4592",
+  "publicPath": "/static/",
+  "outputPath": "C:\\www\\wp\\demos\\frontity\\my-app\\build\\static",
+  "assetsByChunkName": {
+    "my-app": "my-app.module.js"
+  },
+  "assets": [
+    {
+      "name": "my-app.module.js",
+      "size": 6402608,
+      "chunks": [
+        "my-app"
+      ],
+      "chunkNames": [
+        "my-app"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "my-app": {
+      "chunks": [
+        "my-app"
+      ],
+      "assets": [
+        "my-app.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "my-app": {
+      "chunks": [
+        "my-app"
+      ],
+      "assets": [
+        "my-app.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "chunks": [
+    {
+      "id": "my-app",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 1617661,
+      "names": [
+        "my-app"
+      ],
+      "files": [
+        "my-app.module.js"
+      ],
+      "hash": "dfde83c6847f665fb8a8",
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    }
+  ],
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": [],
+  "generator": "loadable-components"
+}
